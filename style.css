@@ -1,0 +1,60 @@
+body { background-image: url("https://img.freepik.com/foto-gratis/fondo-textura-pared-pintada-blanco_53876-138197.jpg?w=2000");
+	font-family: sans-serif,'Arial Narrow Bold', sans-serif;
+	padding-left: 0.5cm;
+	padding-right: 0.5cm;}
+
+h1 {
+font-family: monospace;
+padding-top: 10px;
+text-align: center;
+}
+
+p {
+font-size: 1.1em;
+padding-top: 10px;
+}
+
+table {
+width: 95%;
+border-collapse: collapse;
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+background-color: lightgray;
+}
+
+th {
+text-align: center;
+background-color: lightsalmon;
+border: 2px solid black;
+padding: 10px;
+} 
+
+td {
+text-align: center;
+border: 2px solid black;
+padding: 10px;
+}
+
+h1 {
+text-align: center; 
+	}
+
+h2 {
+text-align: center; 
+font-size: 1.5em;
+}
+
+footer {
+font-family: monospace;
+padding-top: 10px;
+padding-bottom: 10px;
+border: 2px solid gray;
+border-radius: 10px;
+text-align: center;
+position: fixed;
+bottom: 0;
+width: 95%;
+height: 50px;
+background-color: lightgray;
+}
